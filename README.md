@@ -1,11 +1,11 @@
 
-# .NET Minimal API Webhook Example
+# ASP.NET Minimal API Webhook Example
 
 ## About
 
-Please note that project is a copy of [ASP.NET Core Webhook Example](https://github.com/TelegramBots/Telegram.Bot.Examples/tree/master/Telegram.Bot.Examples.WebHook) re-designed for .NET Minimal API
+Please note that project is a copy of [ASP.NET Core Webhook Example](https://github.com/TelegramBots/Telegram.Bot.Examples/tree/master/Telegram.Bot.Examples.WebHook) re-designed for [ASP.NET Minimal API](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/minimal-apis?view=aspnetcore-6.0)
 
-This project is a simple .NET Minimal API application, which provides webhook endpoint for the Telegram Bot.
+This project is a simple ASP.NET Minimal API application, which provides webhook endpoint for the Telegram Bot.
 
 You can find useful information on setting up webhook for your bot in official docs:
 
